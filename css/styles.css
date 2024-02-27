@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(43, 164, 168);
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    font-family: 'Luminari';
+    font-weight: bold;
+    border: solid 2px rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(43, 164, 168);
+}
+h3 {
+    color: rgb(43, 164, 168);
+}
+body {
+    background-color: lavender;
+}
+p {
+    font-size: 25px;
+    font-family: 'Luminari';
+    font-weight: bold;
+}
+ul {
+    font-size: 25px;
+    font-family: 'Luminari';
+    font-weight: bold;
+}
+a{
+    text-decoration: none ;
+}
+img{
+    width: 200 px;
+}
+h1{
+    border-radius: 55px;
+}
