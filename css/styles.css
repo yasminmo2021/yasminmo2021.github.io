@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(43, 164, 168);
+    color: rgb(47, 70, 70);
     text-align: center;
     font-style: italic;
     font-size: 26px;
@@ -8,10 +8,10 @@ h1 {
     border: solid 2px rgb(0, 0, 0);
 }
 h2 {
-    color: rgb(43, 164, 168);
+    color: rgb(47, 70, 70);
 }
 h3 {
-    color: rgb(43, 164, 168);
+    color: rgb(47, 70, 70);
 }
 body {
     background-color: lavender;
@@ -49,6 +49,15 @@ div {
     margin: 0 auto;
     border-top: 20px solid #d5d5d5 ;
     text-align: center;
+    background-image: url('../img/b03920d09a17a034fa81da7323e9a30b.jpg');
+    /*height: 50vh;
+    border: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    margin: 40px 50px;*/
 }
 #paragafro{
     font-style: oblique;
@@ -76,4 +85,10 @@ li{
     list-style: none;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:  20px;
+}
+.paragafro_especial{
+    color: rgb(161, 26, 26);
+}
+ol{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
