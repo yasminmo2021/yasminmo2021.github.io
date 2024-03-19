@@ -99,3 +99,27 @@ img {
 .agronomo {
     color:rgb(161, 26, 26)
 }
+li {
+    display: inline;
+    margin-left: 10px;
+}
+a{
+    font-size: 14px;
+    text-decoration: none;
+    align-items: center;
+}
+a:hover{
+    color:rgb(161, 26, 26)
+}
+header {
+    bottom: 0;
+    position: fixed;
+    background-color:rgb(133, 187, 189) ;
+    align-items: center;
+}
+footer {
+    align-items: center;
+}
+nav {
+    align-items: center;
+}
