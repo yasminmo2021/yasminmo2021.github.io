@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(47, 70, 70);
+    color: rgb(7, 7, 7);
     text-align: center;
     font-style: italic;
     font-size: 26px;
@@ -73,11 +73,11 @@ div {
     border-radius: 55px;
 }
 a {
-    background-color: rgb(133, 187, 189);
+    background-color: rgb(255, 255, 255);
     font-size: 14px;
     font-weight: bold;
     text-decoration: none;
-    color: #000000;
+    color: #070707;
     padding: 8px 15px;
     border-radius: 20px;
 }
@@ -88,6 +88,8 @@ li{
 }
 .paragafro_especial{
     color: rgb(161, 26, 26);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
 }
 ol{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -112,10 +114,10 @@ a:hover{
     color:rgb(161, 26, 26)
 }
 header {
-    bottom: 0;
-    position: fixed;
+    top: 0;
     background-color:rgb(133, 187, 189) ;
     align-items: center;
+
 }
 footer {
     align-items: center;
