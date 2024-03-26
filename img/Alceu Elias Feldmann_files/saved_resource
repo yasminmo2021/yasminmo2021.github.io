@@ -1,0 +1,43 @@
+
+var ftGUID_7922304="5929BC1FAF3D3B";
+var ftConfID_7922304="0";
+var ftParams_7922304="ftOBA=1&ft_domain=bc540c0d60d13b51d239359cec425511.safeframe.googlesyndication.com&ft_ifb=1&ft_agentEnv=0&ft_referrer=https://www.forbes.com/&gdpr=0&us_privacy=${US_PRIVACY}&site_url=https://www.forbes.com/&pub_id=1&sup_platform=1&cachebuster=483335.93577674107";
+var ftKeyword_7922304="";
+var ftCustom_7922304="";
+var ftSection_7922304="";
+var ftSegment_7922304="amef";
+var ftSegmentList_7922304=[{s:'amef'}];
+var ftRuleMatch_7922304="0";
+var ftTimestamp_7922304="1711488969";
+var ftGeoC2_7922304="br";
+var ftGeoState_7922304="ro";
+var ftGeoCity_7922304="vilhena";
+var ftISP_7922304="internet 5.8 ltda-me";
+var ftSpeed_7922304="broadband";
+var ftConnType_7922304="wifi";
+var ftDMA_7922304="76047";
+var ftLong_7922304="-60.14";
+var ftLat_7922304="-12.73";
+var ftPostal_7922304="76980-000";
+var ftTimeZone_7922304="-400";
+var ftMobileCarrier_7922304="";
+var ftImp7922304 = {};
+ftImp7922304.privacy = "x";
+ftImp7922304.guidAge = "0";
+ftImp7922304.impID = "C21C081F-9816-B492-AA99-599A2D8773A3";
+ftImp7922304.duid = "FT:5929BC1FAF3D3B";
+
+ftImp7922304.ft_tpplid = "";
+ftImp7922304.ft_c = {};
+ftImp7922304.gdpr = "0";
+ftImp7922304.gdpr_consent = "";
+ftImp7922304.gdpr_pd = "";
+ftImp7922304.oob_consent = "";
+ftImp7922304.gdprStoredConsent = "";
+ftImp7922304.us_privacy = "!!US_PRIVACY!";
+ftImp7922304.gpc = "";
+
+ftImp7922304.jsAppend = "1";
+var ftCreativeId_7922304 = "4648138";
+(function(){var tag=document.getElementById("ft_servedby_7922304")||function(s){return s[s.length-1]}(document.getElementsByTagName("script")),js=document.createElement("script");js.src="https://ajs-assets.ftstatic.com/ftUtils.js";js.id="ftscript_m7922304";js.setAttribute("name","ftscript_m7922304");tag.parentNode.insertBefore(js,tag)})();window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("7922304");
+
