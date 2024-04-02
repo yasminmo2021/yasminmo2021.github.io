@@ -1,1 +1,0 @@
-window.mnjs.callback.autoRefreshResponseParser({"lid":"943795702","ref":true,"litype":"HOUSE","nt":0});
