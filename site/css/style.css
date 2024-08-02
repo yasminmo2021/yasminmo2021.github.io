@@ -1,0 +1,22 @@
+img {
+    width: 400px;
+}
+h1 {
+    color: rgb(7, 7, 7);
+    text-align: center;
+    font-style: italic;
+    font-size: 90px;
+    font-family: 'Luminari';
+    font-weight: bold;
+    border: solid 2px rgb(0, 0, 0);
+}
+:root {
+    --cor1: #222;
+    --cor2: #333;
+}
+div {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
