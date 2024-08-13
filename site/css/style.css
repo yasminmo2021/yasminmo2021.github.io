@@ -1,3 +1,14 @@
+yas{
+    align-items: center;
+    text-align: center;
+}
+yams{
+    align-items: center;
+    text-align: center;
+}
+yasmm{
+    align-items: center;
+}
 h1 {
     color: rgb(7, 7, 7);
     font-style: italic;
@@ -133,10 +144,12 @@ nav {
 }
 
 .yas {
-
     flex-direction: column;
     margin-left: auto;
     margin-right: auto;
     display: block;
     align-items: center;
 }
+body {  		
+    background-color: rgb(133, 187, 189);  	
+ }  
