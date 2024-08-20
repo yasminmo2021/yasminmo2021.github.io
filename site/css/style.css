@@ -1,12 +1,14 @@
-yas{
+.yas{
+    align-items: center;
+    text-align: center;
+    color: var(--cor5);
+    
+}
+.yams{
     align-items: center;
     text-align: center;
 }
-yams{
-    align-items: center;
-    text-align: center;
-}
-yasmm{
+.yasmm{
     align-items: center;
 }
 h1 {
