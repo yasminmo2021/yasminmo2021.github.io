@@ -1,11 +1,18 @@
+*{
+    padding: 0;
+}
+
+
 .yas{
-    align-items: center;
-    text-align: center;
-    
+
+    padding: 0;
     
 }
+
+
+
 .yams{
-    align-items: center;
+    margin: 0 auto;
     text-align: center;
 }
 .yasmm{
@@ -36,6 +43,7 @@ p {
     font-size: 26px;
     font-family: 'Luminari';
     font-weight: bold;
+    padding: 0px 15px;
 }
 ul {
     font-size: 26px;
@@ -60,11 +68,9 @@ h1{
 
 div {
     background-color: #f5f5f5;
-    padding: 50px;
-    max-width: 930px;
-    margin: 0 auto;
+    width: 930px;
+ 
     border-top: 20px solid #d5d5d5 ;
-    text-align: center;
     background-image: url('../img/b03920d09a17a034fa81da7323e9a30b.jpg');
     /*height: 50vh;
     border: #000000;
@@ -153,5 +159,31 @@ nav {
     align-items: center;
 }
 body {  		
-    background-color: rgb(133, 187, 189);  	
+    background-color: rgb(133, 187, 189);
+    margin: 0;  	
  }  
+
+ @media (width < 940px) {
+    div{
+        width: 400px;
+    }
+    
+ }
+
+
+ @media (width < 600px) {
+    img{
+        width: 300px;
+    }
+
+    h1 {
+        width: 325px;
+        margin: 0 auto;
+    }
+
+    p {
+        width: 325px;
+        margin: 0 auto;
+    }
+    
+ }

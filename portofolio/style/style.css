@@ -19,7 +19,7 @@ a{
     font-size: 16px;
     font-weight: bold;
     text-decoration: none;
-    color: rgb(206, 203, 203);
+    color: #d68888;
     padding: 8px 15px;
     border-radius: 10px;
     align-items: center
@@ -58,4 +58,7 @@ h3{
 h4{
     color: #d68888;
     font-size: 30px;
+}
+.botao{
+
 }
