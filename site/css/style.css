@@ -111,7 +111,7 @@ ol{
 
 
 .agronomo {
-    color:rgb(161, 26, 26)
+    color:rgb(168, 87, 87)
 }
 li {
     display: inline;
@@ -136,7 +136,7 @@ a:hover{
 }
 header {
     top: 0;
-    background-color:rgb(133, 187, 189) ;
+    background-color:#d68888 ;
     align-items: center;
 
 }
@@ -159,7 +159,7 @@ nav {
     align-items: center;
 }
 body {  		
-    background-color: rgb(133, 187, 189);
+    background-color: #d68888;
     margin: 0;  	
  }  
 
@@ -187,3 +187,100 @@ body {
     }
     
  }
+
+.ei{
+    background-color: #cfa1a1;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 20px;
+    border:  4px, #000000;
+}
+:root{
+    --cor-principal: #ffffff;
+    --cor-secundaria: #f0bcbc;
+    --cor-secundaria-variante: #db8b8b;
+
+}
+
+.title{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 45px;
+    
+}
+
+body::-webkit-scrollbar { 
+	display: none;
+}
+
+
+main{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--cor-principal);
+}
+
+.map-mouldure{
+    width: 40vh;
+    height: 40vh;
+    background-color: var(--cor-secundaria);
+    text-align: center;
+    margin: 2vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 20px var(--cor-secundaria-variante) solid;
+    border-style: double;
+    border-radius: 20px;
+    overflow: hidden;
+    align-items: center;
+    
+
+    
+
+}
+
+.map-mouldure a{
+    width: 40vh;
+    height: 40vh;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.map-image{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    width: 90%;
+    height: 60%;
+    border: 2px rgb(94, 94, 94) solid;
+    border-radius: 20px;
+}
+
+.map-image:hover{
+    margin-top: 0px;
+    height: 80%;
+    width: 120%;
+    transition: 300ms;
+    cursor: pointer
+
+    
+
+}
+
+footer{
+    background-color: #cfa1a1;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 15px;
+    border:  4px, #000000;
+}
